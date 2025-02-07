@@ -6,7 +6,7 @@ OWNER: @darkmakerofc | @MR-NIMA-X
 */
 
 module.exports = {
-  SESSION_ID: process.env.SESSION_ID || '',
+  SESSION_ID: process.env.SESSION_ID || 'QUEENELISA;;;==QRH50ZCJzUa10azl1cwtGaJRFcSxWUTVXQuxEZVhWaQJDORhFakh1bOZUZjM1NT52QF50Ypwd=12645985749',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name I am Alive Now !*
 
@@ -23,13 +23,13 @@ module.exports = {
 
 Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_MEDIA: 'https://telegra.ph/file/d842677f522b6bef4dfe6.jpg',
-  MONGODB_URL: process.env.MONGODB_URL|| '',
+  MONGODB_URL: process.env.MONGODB_URL|| 'mongodb://mongo:ULciqdgAHJlCtORsFRESoabeEeIbCKjk@roundhouse.proxy.rlwy.net:10891',
   PREFIX: '.$&',
   LANGUAGE: 'EN',
   PORT: process.env.PORT || 3000,
   BOT_NAME: 'queen elisa',
   OWNER_NAME: 'MrNima',
-  OWNER_NUMBER: '94715166712',
+  OWNER_NUMBER: '94758954621',
   SUDO: '94715166712',
   WORK_TYPE: 'private', // ex: public/private
   WORK_MODE: 'all', // ex: all/only_groups/only_pm
